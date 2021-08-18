@@ -1,3 +1,29 @@
+
+## start
+    npx create-react-app react-slack-clone --template redux
+    npm start
+
+## deploy
+    firebase login
+    firebase init
+    npm run build
+    firebase deploy
+
+
+## Links
+    firebase
+                npm i firebase
+    material-ui npm install @material-ui/icons
+                npm install @material-ui/core
+    react-router https://reactrouter.com/web/guides/quick-start
+    We use styled components https://styled-components.com/
+                npm install --save styled-components
+
+    react-firebase-hooks https://www.npmjs.com/package/react-firebase-hooks
+
+    npm i react-spinkit
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
